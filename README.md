@@ -9,3 +9,4 @@ Se requiere:
 * acceso a un API de OpenAI (con 5usd de creditos serán más que suficientes para ejecutar estos notebooks muchas veces)
 * acceso al API de Tavily (para un notebook en espeficio, tiene un free layer bastante bueno, no se requiere pagar nada)
 * docker para correr una base de datos vectorial local (PGVector)
+* crear variables de entorno: OPENAI_API_KEY, TAVILY_API_KEY
